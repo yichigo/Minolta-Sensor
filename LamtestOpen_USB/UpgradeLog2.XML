@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lamtest">
+</Property><Property Name="Solution File" Value="D:\Tdev2\Lambda\Code\CSharp\Lamtest\Lamtest.sln">
+</Property><Property Name="Date" Value="Thursday, September 17, 2015">
+</Property><Property Name="Time" Value="16:21 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lamtest.sln" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Lamtest.sln">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Lamtest.csproj" Description="Project file successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Lamtest.csproj">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Lamtest.csproj.user" Description="Project user file successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Lamtest.csproj.user">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="byteCommands.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\byteCommands.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="fileOps.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\fileOps.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Form1.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Form1.Designer.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="FTD2XX_NETclass.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\FTD2XX_NETclass.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="lambdaParallel.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\lambdaParallel.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="lambdaSerial.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\lambdaSerial.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="lambdaUSB.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\lambdaUSB.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="lambdaUtils.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\lambdaUtils.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="lbscFunctions.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\lbscFunctions.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="lbXFunctions.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\lbXFunctions.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="myTextBox.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\myTextBox.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Program.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="vf5Functions.cs" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\vf5Functions.cs">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="app.config" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\app.config">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Form1.resx" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Tdev2\Lambda\Code\CSharp\Lamtest\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Lamtest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Lamtest" Source="Lamtest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lamtest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lamtest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lamtest" Source="Lamtest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
