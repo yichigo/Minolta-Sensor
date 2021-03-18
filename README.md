@@ -4,6 +4,7 @@ In the application, we use "MinoltaDataParse*.exe" to collect data from Minolta 
 
 ### Data Path
 The data is collected to the folder: "~/Desktop/Minolta/10004098/"
+
 This fold should be created before running.
 
 ## MinoltaDataParse
