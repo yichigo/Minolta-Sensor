@@ -18,4 +18,4 @@ The application read the time from PC system rather than Minolta Sensor, because
 "LamtestOpen.exe" and "LamtestClose.exe" are generated from the visual studio solution of LamtestOpen_USB, which is written in c#.
 
 ### Sutter Instrument Unified Lambda USB Driver
-The drive of the auto shutter be downloaded from https://www.sutter.com/SOFTWARE/software_index.html
+The driver of the auto shutter can be downloaded from https://www.sutter.com/SOFTWARE/software_index.html
