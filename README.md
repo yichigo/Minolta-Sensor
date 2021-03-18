@@ -2,6 +2,10 @@
 In the application, we use "MinoltaDataParse*.exe" to collect data from Minolta sensor.
 "MinoltaDataParse*.exe" also calls "LamtestOpen.exe" and "LamtestClose.exe" to control the auto shutter during the calibration every 30 minutes.
 
+### Data Path
+The data is collected to the folder: "~/Desktop/Minolta/10004098/"
+This fold should be created before running.
+
 ## MinoltaDataParse
 "MinoltaDataParse*.exe" is generated from the visual studio solution of MinoltaDataParse, which is written in c++.
 
